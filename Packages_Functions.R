@@ -28,21 +28,6 @@ read_plus <- function(flnm) {
              trim_ws = TRUE, skip = 1)
 }
 
-Input_list <-
-  list.files(path = "./Input/",
-             pattern = "*.txt", 
-             full.names = TRUE) %>% 
-  lapply(read_plus)
-
-Input_list_names <-   
-  list.files(path = "./Input/",
-             pattern = "*.txt") %>%
-  str_replace(pattern = ".txt", 
-              replacement = "")
-
-names(Input_list) <- Input_list_names
-
-
 # Label_qPCR_data : Label the Cq data, some code from stackoverflow by Tony Breyal ----
 
 Label_qPCR_data <- function(CqFile, 
