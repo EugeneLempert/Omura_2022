@@ -9,6 +9,8 @@ The Figure_S1.R file will import the raw qPCR and melt curve files from a relati
 
 The Figure_S5B.R file has the same data source and thus the import step can be skipped if the Input_list and AA10 files already exist.
 
+Over time, I might clean up some of the code, but perhaps it is best left in its current state as a testiment to my progress.
+
 On 11.30.22, I will not be providing any of the raw data or the AA10 file without direct communication. I do not know the licensing agreements of the publisher as of this time, but I will update as I learn more.  
 
 Feel free to contact me at genielamp16@gmail.com to comment, question, or criticize my work.
