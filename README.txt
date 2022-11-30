@@ -13,4 +13,6 @@ Over time, I might clean up some of the code, but perhaps it is best left in its
 
 On 11.30.22, I will not be providing any of the raw data or the AA10 file without direct communication. I do not know the licensing agreements of the publisher as of this time, but I will update as I learn more.  
 
+The information surrounding these analysis files, how they reached their current state, and my rationale up to that point- I can make available through direct communication.
+
 Feel free to contact me at genielamp16@gmail.com to comment, question, or criticize my work.
