@@ -17,6 +17,9 @@ library(gridExtra)
 if (!require(RColorBrewer)) install.packages('RColorBrewer')
 library(RColorBrewer)
 
+if (!require(openxlsx)) install.packages('openxlsx')
+library(openxlsx)
+
 # Functions written and used in this publication:
 # %notin% : Convenience function that provides a vectorized != logical for filter(); found online, unknown source ----
 `%notin%` <- Negate(`%in%`)
